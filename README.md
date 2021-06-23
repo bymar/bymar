@@ -31,6 +31,7 @@ hi, my name is ~mariana~, but please feel free to call by Mar! I have already le
 </center>
 
 🌱 I’m currently learning **Elixir** 
+<a><a/>
 🔭 Pronouns: all pronouns, you can't hurt me 
 
 If you think I can help you in any kind of way, don't be shy! [Contact me](mailto:mgaldinoas@gmail.com)
