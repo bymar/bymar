@@ -1,4 +1,4 @@
-# Hello 👋 <img src="https://media4.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="40">
+# Hello  <img src="https://media4.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="40">
 
 Computer Science Student at ✨ @[Cesarschool](http://www.cesar.school) ✨ 
 
@@ -8,6 +8,8 @@ Computer Science Student at ✨ @[Cesarschool](http://www.cesar.school) ✨
 [<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
