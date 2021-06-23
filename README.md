@@ -24,10 +24,8 @@ hi, my name is ~mariana~, but please feel free to call by Mar! I have already le
 <center>
   <table>
     <tr >
-        <td><img height="180em" align="left" src="![Mar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bymar&show_icons=true&theme=radical)
-"/></td>
-        <td><img height="180em" align="left" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bymar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-"/></td>
+        <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=bymar&show_icons=true&theme=radical" /></td>
+        <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymar&layout=compact&langs_count=16&theme=radical" /></td>
     </tr>   
   </table>
 </center>
