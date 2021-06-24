@@ -6,7 +6,7 @@ Computer Science Student at ✨ @[Cesarschool](http://www.cesar.school) ✨
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-galdino-059243174/)](https://www.linkedin.com/in/mariana-galdino-059243174/) [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf)](https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf) [![Twitter Badge](https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/asgaidino)](https://twitter.com/asgaidino)
 
-hi, my name is ~mariana~, but please feel free to call by Mar! I have already learned about web develoment and some frameworks, also I'm really interested about machine learning and neural network. Cant't wait for the new things I will discover.
+hi, my name is ~mariana~, but please feel free to call by Mar! I have already learned about web develoment and some frameworks, also I'm really interested about machine learning and neural network. Can't wait for the new things I will discover.
 
 ---
 ##### Currently languagens & tools:
