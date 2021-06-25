@@ -1,6 +1,6 @@
 # hello  <img src="https://media4.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="40">
 
-Computer Science Student at ✨ @[Cesarschool](http://www.cesar.school) ✨ 
+Computer Science Student at ✨ @[cesarschool](http://www.cesar.school) ✨ 
 
 ### a young developer looking forward to change the world with their creations 
 
