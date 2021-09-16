@@ -17,7 +17,7 @@ mar = dict(
     pronouns: ("they",  "them",),
     askMeAbout: ["astrophysics", "anime", "kpop", "mechanical keyboards", "audio design"],
     code: ["Python", "C", "C++", "Java"],
-    tools: ["Visual Studio Code", "Linux", "Notion", "Gitlab"],
+    tools: ["Visual Studio Code", "Linux", "Notion", "Git"],
     technologies: dict(
         backEnd: {
             "python": ["Flask"],
