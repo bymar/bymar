@@ -16,19 +16,16 @@ oi, my name is _Mar_! I'm a **software developer**, and already learned about we
 mar = dict(
     pronouns: ("they",  "them",),
     askMeAbout: ["astrophysics", "anime", "kpop", "mechanical keyboards", "audio design"],
-    code: ["Python", "C", "C++", "Java"],
-    tools: ["Visual Studio Code", "Linux", "Notion", "Git"],
     technologies: dict(
-        backEnd: {
-            "python": ["Flask"],
-        },
-        frontEnd: {
-            "html": ["bootstrap", "bulma"],
-            "css": ["bootstrap"]
-        },
-        databases: ["postgres", "sqlite"],
-    },
-    currentFocus: "Quality Assurance",
+        code: ["Python", "C", "C++", "Java", 
+            "HTML", "CSS"],
+            
+        frameworks: ["Flask", "Bulma", "Bootstrap"],
+        
+        tools: ["Visual Studio Code", "Linux", "Git", 
+            "postgres", "Notion"],
+            
+        currentFocus: "Quality Assurance",
 )
 ```
 
