@@ -13,20 +13,20 @@ oi, my name is _Mar_! I'm a **software developer**, and already learned about we
 ---
 
 ```python
-mar = dict(
-    pronouns: ("they",  "them",),
-    askMeAbout: ["astrophysics", "anime", "kpop", "mechanical keyboards", "audio design"],
-    technologies: dict(
-        code: ["Python", "C", "C++", "Java", 
+mar = {
+    "pronouns": ("she",  "they"),
+    "askMeAbout": ["astrophysics", "anime", "kpop", "mechanical keyboards", "audio design"],
+    "technologies": {
+        "code": ["Python", "C/C++", "Java", 
             "HTML", "CSS"],
             
-        frameworks: ["Flask", "Bulma", "Bootstrap"],
+        "frameworks": ["Flask", "Bulma", "Bootstrap"],
         
-        tools: ["Visual Studio Code", "Linux", "Git", 
-            "postgres", "Notion"],
-            
-        currentFocus: "Quality Assurance",
-)
+        "tools": ["Visual Studio Code", "Linux", "Git", 
+            "postgres", "Notion"]
+    },
+    "currentFocus": "Quality Assurance"
+}
 ```
 
 ---
@@ -34,8 +34,6 @@ mar = dict(
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=bymar&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bymar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
-  <br>
-  <br>
 </p>
 
 If you think I can help you in any kind of way, don't be shy! [Contact me](mailto:mgaldinoas@gmail.com)
