@@ -10,14 +10,14 @@ oi, my name is _Mar_! I'm a **back-end developer** that think technology make th
 
 🌱 Learning **Java** 
 
----
-
 ```python
 mar = {
     "pronouns": ("she",  "they"),
     "askMeAbout": ["anime", "astrophysics", "audio design", "kpop", "mechanical keyboards"]
 }
 ```
+--- 
+
 ### Technologies and Tools ### 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,13 +34,13 @@ mar = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
----
-
 <table align="center" style="margin: 0px auto;">
   <tr>
       <td><img src ="https://github-readme-stats.vercel.app/api?username=bymar&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000"></td>
       <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bymar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html"></td>
   </tr>   
 </table>
+
+---
 
 If you think I can help you in any kind of way, don't be shy! [Contact me](mailto:mgaldinoas@gmail.com)
