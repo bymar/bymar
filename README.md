@@ -6,7 +6,7 @@ Computer Science Student at ✨[cesarschool](http://www.cesar.school)✨
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-galdino-059243174/)](https://www.linkedin.com/in/mariana-galdino-059243174/) [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf)](https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf) [![Twitter Badge](https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/asgaidino)](https://twitter.com/asgaidino)
 
-oi, my name is _Mar_! I'm a **back-end developer**, I'm really passionate about what I believe and I think technology can make big changes and bring opportunities for everyone. Can't wait for the new things I will discover.
+oi, my name is _Mar_! I'm a **back-end developer**, I think technology can make big changes and bring opportunities for everyone. Can't wait for the new things I will discover and learn!
 
 🌱 Learning **Java** 
 
@@ -38,9 +38,11 @@ mar = {
 
 ---
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=bymar&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bymar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
-</p>
+<table align="center" style="margin: 0px auto;">
+  <tr>
+      <td><img src ="https://github-readme-stats.vercel.app/api?username=bymar&show_icons=true&count_private=true&theme=darcula&hide_border=true,contribs&bg_color=00000000"></td>
+      <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bymar&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html"></td>
+  </tr>   
+</table>
 
 If you think I can help you in any kind of way, don't be shy! [Contact me](mailto:mgaldinoas@gmail.com)
