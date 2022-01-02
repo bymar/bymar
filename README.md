@@ -1,12 +1,12 @@
 # hayo  <img src="https://media4.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="40">
 
-Computer Science Student at ✨[cesarschool](http://www.cesar.school)✨ 
+Computer Science Student at ✨[CESAR School](http://www.cesar.school)✨ 
 
 ### a passionate person looking forward to change the world with their creations 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-galdino-059243174/)](https://www.linkedin.com/in/mariana-galdino-059243174/) [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf)](https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf) [![Twitter Badge](https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/asgaidino)](https://twitter.com/asgaidino)
 
-oi, my name is _Mar_! I'm a **back-end developer**, I think technology can make big changes and bring opportunities for everyone. Can't wait for the new things I will discover and learn!
+oi, my name is _Mar_! I'm a **back-end developer** that think technology make the difference and bring opportunities for everyone. Can't wait for the new things I will discover and learn!
 
 🌱 Learning **Java** 
 
@@ -18,8 +18,6 @@ mar = {
     "askMeAbout": ["anime", "astrophysics", "audio design", "kpop", "mechanical keyboards"]
 }
 ```
----
-
 ### Technologies and Tools ### 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
