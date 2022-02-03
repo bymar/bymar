@@ -1,6 +1,6 @@
 # hayo  <img src="https://media4.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="40">
 
-Computer Science Student at ✨[CESAR School](http://www.cesar.school)✨ 
+Software Engineer Intern at ✨[CESAR](https://www.cesar.org.br/)✨ 
 
 ### a passionate person looking forward to change the world with their creations 
 
