@@ -6,7 +6,7 @@ Software Engineer Intern at ✨[CESAR](https://www.cesar.org.br/)✨
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-galdino-059243174/)](https://www.linkedin.com/in/mariana-galdino-059243174/) [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf)](https://open.spotify.com/user/9ssz7ctwi8prfhuo7whd9ojkf) [![Twitter Badge](https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/asgaidino)](https://twitter.com/asgaidino)
 
-oi, my name is _Mar_! I'm a **software developer** that think technology make the difference and bring opportunities for everyone. I love the things i'm discovering and learning, the world is huge and i will to see it all.
+oi, my name is _Mar_! I'm a **software developer** that think technology make the difference and bring opportunities for everyone. I love the things i'm discovering and learning, the world is huge and i will see it all.
 
 🌱 Learning **React** 
 
