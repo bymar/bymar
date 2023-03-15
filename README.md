@@ -8,7 +8,7 @@ Software Engineer Intern at ✨[CESAR](https://www.cesar.org.br/)✨
 
 oi, my name is _Mar_! I'm a **software developer** that think technology make the difference and bring opportunities for everyone. I love the things i'm discovering and learning, the world is huge and i will see it all.
 
-🌱 Learning **React** 
+🌱 Learning **Angular** & **Django** 
 
 ```python
 mar = {
