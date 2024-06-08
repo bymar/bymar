@@ -1,6 +1,6 @@
 # hayo  <img src="https://media4.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="40">
 
-Software Engineer Intern at ✨[CESAR](https://www.cesar.org.br/)✨ 
+Junior Software Engineer | Consultor SI Level 1 at ✨ITSector - Portugal✨ 
 
 ### a passionate person looking forward to change the world with their creations 
 
@@ -8,7 +8,7 @@ Software Engineer Intern at ✨[CESAR](https://www.cesar.org.br/)✨
 
 oi, my name is _Mar_! I'm a **software developer** that think technology make the difference and bring opportunities for everyone. I love the things i'm discovering and learning, the world is huge and i will see it all.
 
-🌱 Learning **Angular** & **Django** 
+🌱 Learning **React**
 
 ```python
 mar = {
